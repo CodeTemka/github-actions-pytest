@@ -14,7 +14,7 @@
 
 Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
 
-![Python application test with Github Actions](https://github.com/noahgift/github-actions-pytest/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+[![Python application test with Github Actions](https://github.com/CodeTemka/github-actions-pytest/actions/workflows/main.yml/badge.svg)](https://github.com/CodeTemka/github-actions-pytest/actions/workflows/main.yml)
 
 # Github Actions pytest
 Example Github Actions Project designed to show how a hello version of Github Actions testing Python code.
